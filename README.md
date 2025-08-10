@@ -2,13 +2,13 @@
 
 ## Conditions d'utilisation
 
-En utilisant le bot **667 Bot** et ce site web, vous acceptez intégralement et sans réserve les conditions suivantes :
+En utilisant le bot **Lester.exe** et ce site web, vous acceptez intégralement et sans réserve les conditions suivantes :
 
-- Ne pas utiliser **667 Bot** à des fins illégales, malveillantes, de spam ou contraires aux conditions de Discord.
+- Ne pas utiliser **Lester.exe** à des fins illégales, malveillantes, de spam ou contraires aux conditions de Discord.
 - Respecter les autres utilisateurs, la communauté et les règles des serveurs Discord.
 - Ne pas tenter de perturber, pirater, exploiter ou surcharger le fonctionnement du bot ou du site.
 - Ne pas utiliser le bot pour harceler, menacer ou diffuser du contenu inapproprié.
-- **667 Bot** peut être mis à jour, modifié ou interrompu à tout moment sans préavis ni compensation.
+- **Lester.exe** peut être mis à jour, modifié ou interrompu à tout moment sans préavis ni compensation.
 - Le développeur se réserve le droit de restreindre, suspendre ou bannir l'accès sans justification.
 - Toute utilisation commerciale du bot est strictement interdite sans autorisation écrite préalable.
 - Les utilisateurs sont seuls responsables de leurs actions et du contenu qu'ils génèrent via le bot.
@@ -17,7 +17,7 @@ En utilisant le bot **667 Bot** et ce site web, vous acceptez intégralement et 
 
 ## Limitation de responsabilité
 
-L'utilisation de **667 Bot** se fait entièrement à vos risques et périls. Le développeur décline toute responsabilité concernant :
+L'utilisation de **Lester.exe** se fait entièrement à vos risques et périls. Le développeur décline toute responsabilité concernant :
 
 - Les dommages directs, indirects, accessoires ou consécutifs résultant de l'utilisation du bot.
 - La perte de données, profits, revenus ou opportunités commerciales.
@@ -32,7 +32,7 @@ L'utilisation de **667 Bot** se fait entièrement à vos risques et périls. Le 
 
 ## Politique de confidentialité
 
-**667 Bot** respecte votre vie privée dans les limites techniques. Voici comment vos données sont traitées :
+**Lester.exe** respecte votre vie privée dans les limites techniques. Voici comment vos données sont traitées :
 
 - Le bot collecte automatiquement les identifiants Discord, messages de commande et métadonnées nécessaires.
 - Les logs d'utilisation peuvent être conservés indéfiniment pour améliorer le service et la sécurité.
@@ -80,7 +80,7 @@ Les utilisateurs peuvent faire l'objet de sanctions incluant mais sans s'y limit
 
 ## Propriété intellectuelle
 
-Le code source, les fonctionnalités et la logique du bot **667 Bot** sont la propriété exclusive du développeur. Les logos, marques, designs et éléments graphiques appartiennent à Rockstar Games et sont utilisés à des fins non commerciales dans le cadre d'un projet éducatif et communautaire sans but lucratif. Ce projet n'est pas affilié à Supercell et ne génère aucun revenu. Toute reproduction, modification, distribution, décompilation ou ingénierie inverse du code du bot est strictement interdite sans autorisation du développeur.
+Le code source, les fonctionnalités et la logique du bot **Lester.exe** sont la propriété exclusive du développeur. Les logos, marques, designs et éléments graphiques appartiennent à Rockstar Games et sont utilisés à des fins non commerciales dans le cadre d'un projet éducatif et communautaire sans but lucratif. Ce projet n'est pas affilié à Supercell et ne génère aucun revenu. Toute reproduction, modification, distribution, décompilation ou ingénierie inverse du code du bot est strictement interdite sans autorisation du développeur.
 
 ## Force majeure
 
